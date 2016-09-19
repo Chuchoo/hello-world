@@ -1,3 +1,3 @@
 # hello-world
 Git Repo brushup
-I am Sugat Sapkota, principal QA automation engineer.
+I am chuchoo, principal QA automation engineer.
